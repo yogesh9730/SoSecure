@@ -1,0 +1,5 @@
+ssh can be done by PuTTY
+
+Which can be found here: https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe
+
+To import key - SSH -> Auth -> Credentials -> and import the key
